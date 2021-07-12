@@ -1,0 +1,19 @@
+#container {
+    width: 500px;
+    height: 250px;
+    vertical-align: middle;
+    margin-top: 200px;
+    margin-left: 400px;
+    text-align: center;
+     
+}
+
+#getFullNameBtn {
+    height:70px;
+    width: 300px;
+    margin-bottom: 30px;
+    background-color:rgb(176, 204, 76);
+}
+#linkedinUrl, #githubUrl {
+    font-size: 20px;
+}
