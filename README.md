@@ -1,4 +1,3 @@
-# Front-End-Web-Development-Bootcamp-Homework
 > Kullanıcının adı,yaşı, Linkedin ve Github profillerine ulaşmamızı sağlayan bir sayfa yapısı
 
 ### Tıklamadan Önce
