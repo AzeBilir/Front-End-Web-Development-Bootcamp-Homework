@@ -1,4 +1,4 @@
-> Kullanıcının adı,yaşı, Linkedin ve Github profillerine ulaşmamızı sağlayan bir sayfa yapısı
+## Kullanıcının adı,yaşı, Linkedin ve Github profillerine ulaşmamızı sağlayan bir sayfa yapısı
 
 ### Tıklamadan Önce
 
